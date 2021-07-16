@@ -40,9 +40,10 @@ record.addEventListener("click", function(){
             inputsField[i].value = 0;
         }
         totals[i].innerText = parseInt(inputsField[i].value) + parseInt(totals[i].innerText)
-
+       
        
     }
- d
+ 
+    
 
 })
